@@ -1,0 +1,70 @@
+body{
+    background-image: url("./medge.jpg");
+    background-size:cover;
+    background-position: 100%;
+    
+}
+.icon{
+    height:27px;
+    width: 27px;
+}
+.header{
+    width: 100%;
+    position:relative;
+    top: 20px;
+}
+.search{
+    width: 450px;
+    height: 40px;
+    background-color:white;
+    opacity: 70%;
+    border-radius: 20px;
+    border-color: rgb(233, 240, 238);
+    position:absolute;
+    top:25%;
+    left:32%;
+    font-size: medium;
+    text-align: center;
+}
+.content{
+    position: relative;
+    top:58%;
+}
+button{
+    height: 80px;
+    width: 80px;
+    background-size: cover;
+    margin-right: 40px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    text-align:calc(80%);
+    background-color: transparent;
+    border-color: transparent;
+}
+input{
+    width:250px;
+    height: 30px;
+    color: rgb(251, 246, 246);
+    background-color:transparent;
+    border-radius: 20px;
+    border-color: white;
+    color: black;
+}
+.foot{
+    position:absolute;
+    top:90%;
+    left:70%;
+}
+
+.app{
+    background-position: center;
+    height: 50px;
+    width: 58px;
+    background-size: cover;
+    margin-right: 40px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    text-align:calc(80%);
+    opacity: 100%;
+    border-color: transparent;
+}
