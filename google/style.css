@@ -1,0 +1,67 @@
+h1{
+    color:blue;
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:2%;
+
+}
+body{
+    background-image: url("./hd-wallpaper-g620dbb58a_1920.jpg");
+    background-size: cover;
+}
+button{
+    height: 30px;
+    width:150px;
+    color:black;
+    background-color: transparent;
+    border-radius: 30px;
+    align-content: center;
+    position: relative;
+    top: 25%;
+    border-color: aliceblue;
+}
+input{
+    height:44px;
+    width:561px;
+    border-radius: 30px;
+    align-content: center;
+    position: absolute;
+    top: 45%;
+    left:27%;
+    font-size: medium;
+    border-style: hidden;
+    opacity:70%;
+}
+.search{
+    position: relative;
+    align-content: center;
+    top:5%;
+}
+.head{
+    position: relative;
+    height: 30px;
+    width: 100px;
+    left:80%;
+}
+.signin{
+    height: 30px;
+    width:100px;
+    color:black;
+    background-color: transparent;
+    border-radius: 30px;
+    align-content: center;
+    position: absolute;
+    top: 25%;
+}
+p{
+    position: relative;
+    top:10%;
+}
+img{
+    height: 40px;
+    width:40px;
+}
+p{
+    color:blue;
+}
